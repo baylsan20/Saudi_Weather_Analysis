@@ -50,7 +50,7 @@ I used **Top N Filtering** to focus on the six cities with the highest average t
 
 ## Interactivity
 
-Instead of using slicers, I used **Visual Interactions / Cross-filtering**, allowing users to select a value such as **Mecca** directly from a visual and automatically update the other visuals based on the selection
+I used **Visual Interactions / Cross-filtering**, allowing users to select a value such as **Mecca** directly from a visual and automatically update the other visuals based on the selection
 
 ## Tools
 
